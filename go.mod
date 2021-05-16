@@ -1,4 +1,4 @@
-module github.com/alibug/go-casbin-mongodb-adapter
+module github.com/alibug/go-casbin-mongodb-adapter/v3
 
 go 1.13
 
